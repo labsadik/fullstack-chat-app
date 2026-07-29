@@ -1,4 +1,5 @@
 # ✨ Full Stack Realtime Chat App ✨
+ChatSphere — Real-Time Multi-Tenant Communication Engine & Low-Latency Event-Driven Mesh
 
 Highlights:
 
